@@ -1,0 +1,5 @@
+Django project following the tutorial here: 
+
+https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+
+Also, necessary conf files to work with nginx + uwsgi
